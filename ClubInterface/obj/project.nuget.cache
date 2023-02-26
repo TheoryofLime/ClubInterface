@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEaunjGJO4IDXVdpfHQIDrEbl979O8PmxKzFe+7bX8vCT13at+gAGxX6Xke9ESXl8kbZA698jthD9+lMXdPWYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Storage\\Work\\cit195\\assignment5\\ClubInterface\\ClubInterface\\ClubInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
